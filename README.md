@@ -1,4 +1,4 @@
-# AI-Powered Investor Intelligence Platform
+# InvestorIQ – AI Financial Intelligence Platform (RAG)
 
 <!-- <img width="1906" height="945" alt="RAGproject" src="https://github.com/user-attachments/assets/5024af81-e07e-47ed-a4ab-a40c439522f2" /> -->
 
