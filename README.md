@@ -108,14 +108,4 @@ python app.py
 
 * Azure PostgreSQL
 
-### Deployment
-
-* Docker
-* Azure Container Registry (ACR)
-* Azure Kubernetes Service (AKS)
-
-### Package Management
-
-* UV
-
 ---
